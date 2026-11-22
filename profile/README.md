@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" alt="A hearth glowing in a voxel realm" width="100%" />
+  <img src="images/banner.png" alt="Hearthmakers, on a sign over a voxel forest" width="100%" />
 </p>
 
 <p align="center">
